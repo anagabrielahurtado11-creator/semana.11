@@ -5,3 +5,8 @@ de los apoyos registrados. La autenticación de usuarios permite verificar la id
 requieren permisos especiales. Además, la protección de la información es fundamental para resguardar los datos personales y evitar accesos no 
 aupermite que el sistema sea más seguro, organizado, confiable y útil para todos los participantes.
 torizados. Esto ayuda a mantener la confianza de la comunidad y garantiza un uso responsable de la plataforma. La combinación de estos elementos 
+
+git add .
+git commit -m "Actividad semana 11"
+git push
+
